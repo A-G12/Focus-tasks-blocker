@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Read 20 pages",
+        "Priority": 2,
+        "Category": "Personal",
+        "Deadline": "06-15-2026",
+        "Assigned day": "06-09-2026 10:00",
+        "Finish day": "06-09-2026"
+    },
+    {
+        "Name": "Study for exam",
+        "Priority": 1,
+        "Category": "School",
+        "Deadline": "06-12-2026",
+        "Assigned day": "06-09-2026 10:05",
+        "Finish day": null
+    },
+    {
+        "Name": "Exercise",
+        "Priority": 3,
+        "Category": "Health",
+        "Deadline": "06-09-2026",
+        "Assigned day": "06-09-2026 10:10",
+        "Finish day": null
+    }
+]
