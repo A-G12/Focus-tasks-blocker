@@ -1,6 +1,7 @@
 import os
 import json
 import pytest
+sys.path.insert(0, "src")
 from project import Load_ToDo, Add_goals, Add_reflexion
 
 def test_Save_and_Load_ToDo(tmp_path, monkeypatch):
